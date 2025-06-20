@@ -1,4 +1,4 @@
 Allison Katerine Fitoria Herrera
 CIF 25012301
-Asignatura: Introduccionh a la progrqamaion
+Asignatura: Introduccion a la programacion
 Carrera: Ingenieria en sistemas de informacion
